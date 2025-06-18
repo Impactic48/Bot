@@ -10,5 +10,4 @@ pluginManagement {
 
 rootProject.name = 'bot'
 
-include 'common'
-include 'fabric', 'paper'
+include 'common', 'paper'
